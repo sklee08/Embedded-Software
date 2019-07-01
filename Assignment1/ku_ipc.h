@@ -1,0 +1,6 @@
+#define KUIPC_MAXMSG 4
+#define KUIPC_MAXVOL 500
+#define IPC_CREAT 0x80
+#define IPC_EXCL 0x92
+#define IPC_NOWAIT 0x100
+#define MSG_NOERROR 0x101
